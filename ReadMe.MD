@@ -18,15 +18,15 @@ Login Page
 3. If you score is less than zero my jsp will show do better next time and if your score is greater than zero jsp will show congratulations with css and audio working.
 
 Questions Page
-![Questions](https://github.com/sing5745/Jeopardy/raw/Jeopardy/question.PNG)
+![Questions](https://github.com/sing5745/Jeopardy/raw/master/question.PNG)
 
 Values Page
-![home](https://github.com/sing5745/Jeopardy/raw/Jeopardy/Home.PNG)
+![home](https://github.com/sing5745/Jeopardy/raw/master/Home.PNG)
 
 /** About win page **/
 1. As i am not able to disable the links my win page works differently, i am having counter which counts number of questions answered, if questions answered is equal to 25 it will dispatch to the win page.
 2. if you skip question 3 tmes it will dispatch to the jsp.
- ![Win Page](https://github.com/sing5745/UberEats/raw/Jeopardy/question.PNG)
+ ![Win Page](https://github.com/sing5745/UberEats/raw/master/question.PNG)
  
  
 
