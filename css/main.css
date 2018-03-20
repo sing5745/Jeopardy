@@ -1,0 +1,78 @@
+/*this is the common page shared by all of the pages*/
+
+body {
+	  /** background image of the city **/
+	
+	font-family: 'Teko', sans-serif;
+	background-color: black;
+	
+} 
+
+header {
+	padding: 5px;
+	background-color: orange;   
+	
+}
+
+h1 {
+	font-size: 3em;  /** as required **/
+	text-align: center;
+}
+
+h2 {
+	font-size: 2em;   /** as required **/
+}
+
+
+table{
+	align:center;
+}
+
+/*
+a {
+	text-decoration: none; no text decoration on nav tags 
+	color: orange;
+	padding: 2px 8px;
+}
+*/
+
+
+
+
+
+
+
+
+#button3 {   /*** button styled according to requirements **/
+	background-color: orange;
+	border: 1px #fff solid;
+	border-radius: 5px;   /**  makes border curve **/
+	color: #fff;
+	cursor: pointer;
+	font-size: 1.2em;
+	padding: 18px 10px;
+	text-decoration: none;  /* no text decoration used */
+	width: 180px;
+	margin: 10px;
+}
+
+#footer {
+	position: fixed;  /** footer fixed to the bootom containing icons **/
+	right: 0;
+	bottom: 0;
+	left: 0;
+	padding: 7px;
+	background-color: black;
+	opacity: 0.75;
+	text-align: center;  /** aligned center**/
+	color: orange;
+    margin: 0;
+}
+
+#footer a{
+    margin: -8px;  /** negaive margin used to make anchor nearby **/
+}
+
+address {
+	color: #efefef; /* color according to screenshot **/
+}

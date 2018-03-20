@@ -1,0 +1,85 @@
+Q1. Which of the following words is a palindrome: yacht, airplane, racecar, train?
+Ans: racecar
+
+Q2. Which letter should appear next in the following sequence: Z B Y D X F W H?
+Ans: V
+
+Q3. MELON is to ENMOL as 83425 is to?
+Ans: 35824
+
+Q4. What sum we should get when we add two opposite faces of dice
+Ans. 7
+
+Q5.If Pesron travels one mile north, two miles west, one mile north, one mile east, three miles south, one mile east, how far will he be from his starting point
+Ans. one mile
+	
+Q6.What ingredient makes bread rise?
+Ans. Yeast
+
+Q7.What food does the Giant Panda mainly eat?
+Ans. Bamboo
+
+
+Q8.What is Tofu made of?
+Ans: Soya Beans
+	
+Q9.From which country does Feta cheese originate?
+Ans: Greece
+
+Q10.Fajitas are widely eaten in which country?
+Ans: Mexico
+
+Q11.How many players are there in an ice hockey team?
+Ans: 6
+
+
+Q12.How many red balls are used in a game of snooker?
+Ans: 14
+
+
+Q13.Which NBA basketball team is based in Detroit?
+Ans. Pistons
+Pistons	Bulls
+Raptors	Celtics
+
+Q14.Who is known as godfather of snooker
+Ans Ronnie Sullivan
+
+Q15.Which basketball player is highest scorer in NBA
+Ans: Karrem Abdul-Jabbar
+
+Q16.Who created the famous equation E = mc2?
+Ans: Einstein
+
+
+Q17.What is the only fossil fuel still in a solid state?
+Ans: Coal
+
+
+Q18.What scientific name is table salt known as?
+Ans: NaCl
+
+Q19.Which vitamin does sunlight provide to humans
+Ans: Vitamin D
+
+
+Q20.Which two elements make up water
+Ans: Hydrogen and Oxygen
+
+
+Q21.Where was Drake born?
+Ans: Toronto
+
+
+Q22.What is drake's favorite NFL team
+Ans: Atlanta Falcons
+
+Q23.What is drake's favorite NBA team
+Ans: Raptors
+
+
+Q24.Biggest Hit of drake
+Ans: One Dance
+
+Q25.What is drake's full name
+Ans: Aubrey Drake Graham
